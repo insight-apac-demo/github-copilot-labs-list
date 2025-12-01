@@ -82,14 +82,12 @@ The following shortcuts are available for Visual Studio:
 
 | OS |  Shortcut |
 | --- | --- |
-| macOS | `command + /` key |
 | Windows | `Alt + /` key |
 
 **Show alternative suggestions**:
 
 | OS |  Shortcut |
 | --- | --- |
-| macOS | `option + .` key |
 | Windows | `Alt + .` key |
 
 
@@ -97,21 +95,18 @@ The following shortcuts are available for Visual Studio:
 
 | OS |  Shortcut |
 | --- | --- |
-| macOS | `TAB` key |
 | Windows | `TAB` key |
 
 **Reject suggestion**:
 
 | OS |  Shortcut |
 | --- | --- |
-| macOS | `Esc` key |
 | Windows | `Esc` key |
 
 **Accept next word**:
 
 | OS |  Shortcut |
 | --- | --- |
-| macOS | `command + Right Arrow` key |
 | Windows | `Ctrl + Right Arrow` key |
 
 
