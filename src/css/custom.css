@@ -132,7 +132,6 @@
 }
 
 [data-theme='dark'] [css="accordion"] code {
-  background-color: unset;
   border: 1px solid #8a9bab; /* lighter border for visibility in dark mode */
   color: #e6edf3;
 }
