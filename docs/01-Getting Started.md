@@ -67,19 +67,23 @@ If you have a github account and want to save your progress, you can fork the re
 
 - Navigate to the exercise repository and fork it to your GitHub account, then clone the repository to your local machine.
 
-### Step 5: Clone the Repository
-
-1. Clone the repository or the forked repository to your local machine using git:
-
-In your terminal, run the following command to clone the repository to your local machine:
-```bash
-git clone https://github.com/GitHub-Insight-ANZ-Lab/github-copilot-labs-list.git
-```
 :::tip
-If you are using Codespaces, you can open the repository directly in Codespaces.
+If you are using Codespaces, you can open the repository directly in Codespaces and skip step 5.
 :::
-2.  Open the cloned repository in your chosen IDE.
-3.  Ensure the GitHub Copilot extension is enabled and sign in to your GitHub account if required. Check the status bar in your IDE to confirm that GitHub Copilot is active.
+
+### Step 5: Clone the Repository (if not using Codespaces)
+
+1. Navigate to the available repository list [here](https://github.com/orgs/GitHub-Insight-ANZ-Lab/repositories?type=all&q=lab)
+
+2. Select the lab you would like to attempt, though we recommend the ones offered in the slides
+
+3. In your terminal, run the following command, remembering to change the `<REPO_NAME>` first, to clone the repository to your local machine:
+```bash
+git clone https://github.com/GitHub-Insight-ANZ-Lab/<REPO_NAME>.git
+```
+
+4.  Open the cloned repository in your chosen IDE.
+5.  Ensure the GitHub Copilot extension is enabled and sign in to your GitHub account if required. Check the status bar in your IDE to confirm that GitHub Copilot is active.
 
 ![image](./images/574979958-8f0799d2-ec1f-4b8e-9f5a-16f8d0bc2622.png)
 
