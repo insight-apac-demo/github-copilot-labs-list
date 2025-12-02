@@ -101,7 +101,7 @@
    width: 100%;
  }
 
-[data-theme='dark'] [css="accordion"] {
+  [data-theme='dark'] [css="accordion"] {
   background-color: #1b1b1d;
   border: 1px solid #2e3338 !important;
 }
