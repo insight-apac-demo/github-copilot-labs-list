@@ -32,7 +32,7 @@ Happy coding! 💻✨
 ### Backend Developers
 
 - [GitHub Copilot Lab C# Console App](https://github.com/insight-apac-demo/copilot-lab-music-store-csharp-console) (VS Code, C#, .NET)
-- [GitHub Copilot Lab Node Calculator](https://github.com/insight-apac-demo/copilot-node-calculator) (VS Code, Node.js)
+- [GitHub Copilot Lab Node Calculator](https://github.com/insight-apac-demo/copilot-lab-node-calculator) (VS Code, Node.js)
 - [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/insight-apac-demo/copilot-challenge-minimal-api-csharp) (VS Code, #, ASP.NET Core)
 - [GitHub Copilot Challenge Java Spring Boot](https://github.com/insight-apac-demo/copilot-challenge-java-spring-boot) (VS Code, Java, Spring Boot)
 
