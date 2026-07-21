@@ -65,4 +65,5 @@ Happy coding! 💻✨
 
 - [GitHub Copilot Agent MCP Server Lab](https://github.com/insight-apac-demo/copilot-lab-mcp-server) (VS Code, Node.js, Express.js, Typescript)
 - [GitHub Copilot SDK Lab](https://github.com/insight-apac-demo/basic-copilot-sdk-lab) (VS Code, GitHub Copilot SDK, Python)
+- [GitHub Custom Tools Lab](https://github.com/insight-apac-demo/custom-tools-lab) (Create Custom Prompts, Agents, Hooks, Skills and more)
 ---
