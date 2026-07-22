@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - dev/revert
   workflow_dispatch:
 
     # Review gh actions docs if you want to further define triggers
